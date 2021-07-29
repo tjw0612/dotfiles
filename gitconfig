@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tjw1993@gmail.com
+	name = jun wei
